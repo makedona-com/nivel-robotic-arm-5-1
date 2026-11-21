@@ -22,8 +22,8 @@ industrial-grade work. And because everyone should have their own robotic arm.
 - NEMA 17 stepper motors through belts and planetary gearboxes. A BigTreeTech Octopus running
   Marlin 2.1 moves the joints; an ESP32 host serves its controls over WLAN and turns a drawing's
   G-code into joint moves.
-- 16 printed parts in PETG, about 23.5 hours and 830 g of filament on a Prusa CORE One L
-  (model: virtual print).
+- 20 printed parts in PETG, about 23.5 hours and 830 g of filament on a Prusa CORE One L
+  (sliced with PrusaSlicer).
 - Holds about 500 g in its gripper (model estimate; the friction is assumed, and the grip will be
   measured on the built arm).
 
